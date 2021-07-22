@@ -1,4 +1,4 @@
-# Instagram Manager Bot
+## Instagram Manager Bot
 The most advanced Instagram Downloader Bot.
 
 ```
@@ -82,7 +82,7 @@ For Generating Session after deployment, You Must leave the Variable as blank an
 ### Deploy to VPS
 
 ```sh
-git clone https://github.com/subinps/Instagram-Bot
+git clone https://github.com/darkmanrandy/Instagram-Bot
 cd Instagram-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -109,7 +109,7 @@ Fork the repo, Do not Import code.
 
 #### Support
 
-Connect Me On [Telegram](https://telegram.dog/subinps_bot)
+Connect Me On [Telegram](https://telegram.dog/tharamaanateambot)
 
 
 ```
